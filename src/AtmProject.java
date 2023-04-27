@@ -11,6 +11,9 @@ public class AtmProject {
 
         System.out.println("Caner branchi kodlarini yazdi.");
         //version cnr1
+
+        System.out.println("Bir kisim kodlar");
+        //cnr2
     }
 
 }
