@@ -13,7 +13,12 @@ public class AtmProject {
         //version cnr1
 
         System.out.println("Bir kisim kodlar");
+
         //cnr2
+
+        System.out.println("");
+        //cnr3
+
     }
 
 }
