@@ -18,6 +18,7 @@ public class AtmProject {
 
         System.out.println("");
         //cnr3
+        System.out.println();
 
     }
 
