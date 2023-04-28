@@ -20,6 +20,8 @@ public class AtmProject {
         //cnr3
         System.out.println();
 
+        //localde degisiklik yaptim.
+
     }
 
 }
